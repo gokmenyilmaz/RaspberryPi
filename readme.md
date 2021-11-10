@@ -1,6 +1,7 @@
 
 RaspberryPi kurulum işlemleri ve uygulamaları
 
+biostan ssh açtıktan sonra
 
 ````
 imager_1.6.2.exe ile usb disk oluştur.
